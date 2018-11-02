@@ -28,10 +28,15 @@
             "name": "csvfile243.csv"
         },
         {
+            "assigned_to": "agauribi",
             "desc": "",
-            "name": "StepB.R"
+            "name": "StepB.R",
+            "task_status": "in progress"
+        },
+        {
+            "name": "plot1.png"
         }
     ],
-    "updated_at": "2018-11-02 06:45:13",
+    "updated_at": "2018-11-02 06:46:45",
     "url": "https://github.com/fall2018-saltz/ananth_gv_linear_model"
 }
