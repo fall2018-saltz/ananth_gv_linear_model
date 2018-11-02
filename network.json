@@ -94,6 +94,16 @@
             ],
             "source": "clean.R",
             "target": "StepB.R"
+        },
+        {
+            "ports": [
+                {
+                    "output": "plot9",
+                    "type": "png"
+                }
+            ],
+            "source": "StepB.R",
+            "target": "plot9.png"
         }
     ],
     "nodes": [
@@ -136,6 +146,6 @@
             "name": "plot9.png"
         }
     ],
-    "updated_at": "2018-11-02 06:50:21",
+    "updated_at": "2018-11-02 06:50:28",
     "url": "https://github.com/fall2018-saltz/ananth_gv_linear_model"
 }
