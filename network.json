@@ -39,15 +39,9 @@
             "name": "abc.txt"
         },
         {
-            "assigned_to": "agauribi",
-            "desc": "abc",
-            "name": "script2392.R",
-            "task_status": "in progress"
-        },
-        {
             "name": "csvfile243.csv"
         }
     ],
-    "updated_at": "2018-11-02 06:42:29",
+    "updated_at": "2018-11-02 06:43:41",
     "url": "https://github.com/fall2018-saltz/ananth_gv_linear_model"
 }
