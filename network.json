@@ -33,6 +33,16 @@
             ],
             "source": "StepB.R",
             "target": "plot2.png"
+        },
+        {
+            "ports": [
+                {
+                    "output": "plot3",
+                    "type": "png"
+                }
+            ],
+            "source": "StepB.R",
+            "target": "plot3.png"
         }
     ],
     "nodes": [
@@ -78,6 +88,6 @@
             "name": "plot18.png"
         }
     ],
-    "updated_at": "2018-11-02 06:48:08",
+    "updated_at": "2018-11-02 06:48:15",
     "url": "https://github.com/fall2018-saltz/ananth_gv_linear_model"
 }
