@@ -104,6 +104,17 @@
             ],
             "source": "StepB.R",
             "target": "plot9.png"
+        },
+        {
+            "ports": [
+                {
+                    "input": "data",
+                    "output": "data",
+                    "type": "r_obj"
+                }
+            ],
+            "source": "StepB.R",
+            "target": "StepC.R"
         }
     ],
     "nodes": [
@@ -146,10 +157,12 @@
             "name": "plot9.png"
         },
         {
+            "assigned_to": "agauribi",
             "desc": "",
-            "name": "StepC.R"
+            "name": "StepC.R",
+            "task_status": "in progress"
         }
     ],
-    "updated_at": "2018-11-02 06:51:13",
+    "updated_at": "2018-11-02 06:52:32",
     "url": "https://github.com/fall2018-saltz/ananth_gv_linear_model"
 }
