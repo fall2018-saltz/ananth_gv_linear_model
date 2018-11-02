@@ -17,15 +17,21 @@
     ],
     "nodes": [
         {
-            "name": "clean.R"
+            "assigned_to": "agauribi",
+            "name": "clean.R",
+            "task_status": "in progress"
         },
         {
             "name": "data.csv"
         },
         {
             "name": "csvfile243.csv"
+        },
+        {
+            "desc": "",
+            "name": "StepB.R"
         }
     ],
-    "updated_at": "2018-11-02 06:43:55",
+    "updated_at": "2018-11-02 06:45:13",
     "url": "https://github.com/fall2018-saltz/ananth_gv_linear_model"
 }
