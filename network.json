@@ -35,8 +35,11 @@
         },
         {
             "name": "plot1.png"
+        },
+        {
+            "name": "plot2.png"
         }
     ],
-    "updated_at": "2018-11-02 06:46:45",
+    "updated_at": "2018-11-02 06:46:52",
     "url": "https://github.com/fall2018-saltz/ananth_gv_linear_model"
 }
