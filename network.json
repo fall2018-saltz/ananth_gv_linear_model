@@ -7,16 +7,6 @@
         {
             "ports": [
                 {
-                    "input": "raw_data",
-                    "type": "csv"
-                }
-            ],
-            "source": "raw_data.csv",
-            "target": "clean.R"
-        },
-        {
-            "ports": [
-                {
                     "output": "clean_data",
                     "type": "csv"
                 }
@@ -27,9 +17,6 @@
     ],
     "nodes": [
         {
-            "name": "raw_data.csv"
-        },
-        {
             "name": "clean.R"
         },
         {
@@ -39,6 +26,6 @@
             "name": "csvfile243.csv"
         }
     ],
-    "updated_at": "2018-11-02 06:43:45",
+    "updated_at": "2018-11-02 06:43:55",
     "url": "https://github.com/fall2018-saltz/ananth_gv_linear_model"
 }
