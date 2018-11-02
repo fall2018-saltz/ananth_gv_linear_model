@@ -144,8 +144,12 @@
         },
         {
             "name": "plot9.png"
+        },
+        {
+            "desc": "",
+            "name": "StepC.R"
         }
     ],
-    "updated_at": "2018-11-02 06:50:28",
+    "updated_at": "2018-11-02 06:51:13",
     "url": "https://github.com/fall2018-saltz/ananth_gv_linear_model"
 }
