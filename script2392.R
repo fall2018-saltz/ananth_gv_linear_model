@@ -1,3 +1,3 @@
 
  library(jsonlite)  
-data <- data.frame(fromJSON("hotel_survey.json"))   
+data <- data.frame(fromJSON('hotel_survey.json'))   
